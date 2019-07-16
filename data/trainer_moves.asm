@@ -12,7 +12,7 @@ LoneMoves:
 	db 2,THUNDERBOLT
 	db 2,MEGA_DRAIN
 	db 3,TOXIC
-	db 3,PSYWAVE
+	db 3,PSYCHIC
 	db 3,FIRE_BLAST
 	db 4,FISSURE
 
@@ -26,7 +26,7 @@ TeamMoves:
 ; second byte: move
 ; ff-terminated
 	db LORELEI,BLIZZARD
-	db BRUNO,FISSURE
+	db BRUNO,SUBMISSION
 	db AGATHA,TOXIC
-	db LANCE,BARRIER
+	db LANCE,HYPER_FANG
 	db $FF

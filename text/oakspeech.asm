@@ -3,9 +3,9 @@ _OakSpeechText1::
 	line "Welcome to the"
 	cont "world of #MON!"
 
-	para "My name is OAK!"
+	para "I am ARRAH!"
 	line "People call me"
-	cont "the #MON PROF!"
+	cont "the #MON GOAT!"
 	prompt
 
 _OakSpeechText2A::
@@ -23,7 +23,7 @@ _OakSpeechText2B::
 	para "Myself..."
 
 	para "I study #MON"
-	line "as a profession."
+	line "as a hobby!"
 	prompt
 
 _IntroducePlayerText::
@@ -32,10 +32,10 @@ _IntroducePlayerText::
 	prompt
 
 _IntroduceRivalText::
-	text "This is my grand-"
-	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
+	text "This is my past"
+	line "self. He sux."
+	cont "Name him some-"
+	cont "thing dumb lol"
 
 	para "...Erm, what is"
 	line "his name again?"
@@ -45,11 +45,11 @@ _OakSpeechText3::
 	text "<PLAYER>!"
 
 	para "Your very own"
-	line "#MON legend is"
+	line "#MON story is"
 	cont "about to unfold!"
 
-	para "A world of dreams"
-	line "and adventures"
+	para "I hope you have"
+	line "lots of fun"
 	cont "with #MON"
-	cont "awaits! Let's go!"
+	cont "from this gift!"
 	done

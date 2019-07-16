@@ -1,8 +1,8 @@
 _MomWakeUpText::
-	text "MOM: Right."
-	line "All boys leave"
-	cont "home some day."
-	cont "It said so on TV."
+	text "ARRAH: Oh,"
+	line "I suppose u"
+	cont "is leaving o.o"
+	cont "Take care, dear!"
 
 	para "PROF.OAK, next"
 	line "door, is looking"
@@ -10,13 +10,13 @@ _MomWakeUpText::
 	done
 
 _MomHealText1::
-	text "MOM: <PLAYER>!"
+	text "ARRAH: Oh!"
 	line "You should take a"
 	cont "quick rest."
 	prompt
 
 _MomHealText2::
-	text "MOM: Oh good!"
+	text "ARRAH: Nice!"
 	line "You and your"
 	cont "#MON are"
 	cont "looking great!"

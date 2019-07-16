@@ -1,5 +1,5 @@
 _HallofFameRoomText1::
-	text "OAK: Er-hem!"
+	text "ARRAH: Hey!"
 	line "Congratulations"
 	cont "<PLAYER>!"
 
@@ -7,14 +7,14 @@ _HallofFameRoomText1::
 	line "#MON HALL OF"
 	cont "FAME!"
 
-	para "#MON LEAGUE"
-	line "champions are"
-	cont "honored for their"
-	cont "exploits here!"
+	para "Thank u"
+	line "for playing"
+	cont "thru my gift"
+	cont "for you!"
 
-	para "Their #MON are"
-	line "also recorded in"
-	cont "the HALL OF FAME!"
+	para "All your #MON"
+	line "will be recorded"
+	cont "as legends o,o"
 
 	para "<PLAYER>! You have"
 	line "endeavored hard"

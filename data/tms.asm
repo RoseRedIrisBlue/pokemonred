@@ -28,8 +28,8 @@ TechnicalMachines:
 	db FISSURE
 	db DIG
 	db PSYCHIC_M
-	db TELEPORT
-	db MIMIC
+	db HYPER_FANG
+	db RECOVER
 	db DOUBLE_TEAM
 	db REFLECT
 	db BIDE
